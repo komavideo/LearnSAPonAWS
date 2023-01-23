@@ -38,3 +38,7 @@ https://docs.aws.amazon.com/zh_cn/sdk-for-sapabap/
 ## SAP用語集(日语)
 
 https://www.nhs.co.jp/sap/library/
+
+## SAP Help Portal
+
+https://help.sap.com/docs/
