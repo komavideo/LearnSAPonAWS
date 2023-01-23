@@ -34,3 +34,7 @@ https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/sap-lens/sap-lens.html
 ## AWS SDK for SAP ABAP
 
 https://docs.aws.amazon.com/zh_cn/sdk-for-sapabap/
+
+## SAP用語集(日语)
+
+https://www.nhs.co.jp/sap/library/
