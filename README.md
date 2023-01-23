@@ -23,6 +23,10 @@ https://docs.aws.amazon.com/zh_cn/sap/latest/general/welcome.html
 
 https://aws.amazon.com/jp/sap/docs/
 
+## AWS Skill Builder
+
+https://explore.skillbuilder.aws/learn
+
 ## SAP Lens(日语)
 
 https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/sap-lens/sap-lens.html
