@@ -19,6 +19,10 @@ https://aws.amazon.com/blogs/awsforsap/
 
 https://docs.aws.amazon.com/zh_cn/sap/latest/general/welcome.html
 
+## SAP HANA 指南
+
+https://docs.aws.amazon.com/zh_cn/sap/latest/sap-hana/welcome.html
+
 ## SAP on AWS 技術文書(日语)
 
 https://aws.amazon.com/jp/sap/docs/
