@@ -3,9 +3,13 @@ AWS Certified: SAP on AWS - Specialty
 
 2023年开始准备 AWS PAS-C01 考试，SAP 是非常流行的 ERP 解决方案，学习 SAP 能增加不少今后的职业机会，一起学习，一起加油！
 
-## 官网
+## 认证官网
 
 https://aws.amazon.com/cn/certification/certified-sap-on-aws-specialty/
+
+## 开始使用 SAP on AWS
+
+https://aws.amazon.com/cn/sap/get-started/
 
 ## SAP 通用指南
 
