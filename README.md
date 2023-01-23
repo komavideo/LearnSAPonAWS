@@ -50,3 +50,7 @@ https://www.nhs.co.jp/sap/library/
 ## SAP Help Portal
 
 https://help.sap.com/docs/
+
+## SCSK ブログ
+
+https://blog.usize-tech.com/tag/sap/
