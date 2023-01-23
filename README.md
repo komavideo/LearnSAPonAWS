@@ -15,6 +15,10 @@ https://aws.amazon.com/cn/sap/get-started/
 
 https://aws.amazon.com/blogs/awsforsap/
 
+## 官方博客（日语）
+
+https://aws.amazon.com/jp/blogs/news/category/sap/
+
 ## SAP 通用指南
 
 https://docs.aws.amazon.com/zh_cn/sap/latest/general/welcome.html
