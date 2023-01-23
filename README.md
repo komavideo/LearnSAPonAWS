@@ -11,11 +11,15 @@ https://aws.amazon.com/cn/certification/certified-sap-on-aws-specialty/
 
 https://aws.amazon.com/cn/sap/get-started/
 
+## 官方博客（英語）
+
+https://aws.amazon.com/blogs/awsforsap/
+
 ## SAP 通用指南
 
 https://docs.aws.amazon.com/zh_cn/sap/latest/general/welcome.html
 
-## SAP on AWS 技術文書
+## SAP on AWS 技術文書(日语)
 
 https://aws.amazon.com/jp/sap/docs/
 
