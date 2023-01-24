@@ -27,6 +27,10 @@ https://docs.aws.amazon.com/zh_cn/sap/latest/general/welcome.html
 
 https://docs.aws.amazon.com/zh_cn/sap/latest/sap-hana/welcome.html
 
+## AWS Launch Wizard for SAP
+
+https://docs.aws.amazon.com/zh_cn/launchwizard/latest/userguide/launch-wizard-sap.html
+
 ## SAP on AWS 技術文書(日语)
 
 https://aws.amazon.com/jp/sap/docs/
